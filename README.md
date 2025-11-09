@@ -2,6 +2,10 @@
 
 Next.js landing page for writers platform.
 
+## 🔗 Посилання на розгортання
+
+[Storyby Landing Test](https://storyby-landing-test.vercel.app/writer-platform)
+
 ## Features
 - Dynamic landings via `[slug]`
 - ISR with `revalidate: 3600`
